@@ -1,4 +1,4 @@
-# Hi there, I'm Max! [![starline](https://starlines.qoo.monster/assets/qwerty2265/qwerty2265)](https://github.com/qoomon/starline)
+# Hi there, I'm Max!
 
 ## 👤 About Me
 
