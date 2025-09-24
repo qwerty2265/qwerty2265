@@ -52,7 +52,7 @@ I’m a full stack developer who likes turning ideas into working products. I ca
 
 ## 📊 GitHub Stats
 
-<table width="100%">
+<table border="0" width="100%">
   <tr>
     <td width="49%">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qwerty2265&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
