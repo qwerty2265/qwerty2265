@@ -52,7 +52,13 @@ I’m a full stack developer who likes turning ideas into working products. I ca
 
 ## 📊 GitHub Stats
   
-  ![Top Languages](https://github-readme-stats-two-rho-15.vercel.app/api/top-langs/?username=qwerty2265&layout=donut&theme=tokyonight&hide_border=true) ![qwerty2265's GitHub stats](https://github-readme-stats-two-rho-15.vercel.app/api?username=qwerty2265&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
+<div align="center">
+
+![Top Languages](https://github-readme-stats-two-rho-15.vercel.app/api/top-langs/?username=qwerty2265&layout=donut&theme=tokyonight&hide_border=true) 
+
+![qwerty2265's GitHub stats](https://github-readme-stats-two-rho-15.vercel.app/api?username=qwerty2265&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
+
+</div>
 
 ![Activity Graph](https://github-readme-activity-graph-sandy-phi.vercel.app/graph?username=qwerty2265&theme=tokyo-night&hide_border=true)
   
