@@ -51,18 +51,8 @@ I’m a full stack developer who likes turning ideas into working products. I ca
 </div>
 
 ## 📊 GitHub Stats
-
-<table border="0" width="100%">
-  <tr>
-    <td width="49%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qwerty2265&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-    </td>
-    <td width="2%"></td>
-    <td width="49%">
-      <img src="https://github-readme-stats.vercel.app/api?username=qwerty2265&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-    </td>
-  </tr>
-</table>
+  
+  ![Top Languages](https://github-readme-stats-two-rho-15.vercel.app/api/top-langs/?username=qwerty2265&layout=donut&theme=tokyonight&hide_border=true) ![qwerty2265's GitHub stats](https://github-readme-stats-two-rho-15.vercel.app/api?username=qwerty2265&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
 
 ![Activity Graph](https://github-readme-activity-graph-sandy-phi.vercel.app/graph?username=qwerty2265&theme=tokyo-night&hide_border=true)
   
