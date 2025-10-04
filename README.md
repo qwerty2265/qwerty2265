@@ -63,10 +63,19 @@ I’m a full stack developer who likes turning ideas into working products. I ca
 ![Activity Graph](https://github-readme-activity-graph-sandy-phi.vercel.app/graph?username=qwerty2265&theme=tokyo-night&hide_border=true)
   
 
-## 🌟 Hire Me on Upwork
+## 🌟 Connect With Me
 
 <div align="center">
   <a href="https://www.upwork.com/freelancers/~01b574568bf964253f" target="_blank">
     <img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=fff" alt="Upwork" height="40px">
+  </a>
+  <a href="https://www.linkedin.com/in/max-mun-6a2b7b373" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="40px">
+  </a>
+  <a href="https://t.me/maksos2265" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" height="40px">
+  </a>
+  <a href="mailto:maxmun.dev@proton.me" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="40px">
   </a>
 </div>
