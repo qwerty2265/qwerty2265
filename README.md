@@ -1,16 +1,53 @@
-## Hi there 👋
+# About Me
 
-<!--
-**qwerty2265/qwerty2265** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```json
+{
+  "name": "Max Mun",
+  "role": "Full Stack Developer",
+  "about": "I'm a full stack developer who likes turning ideas into   working products. I care about writing code that's not just functional, but also clean and easy to grow. I enjoy figuring out tricky problems and picking up new tools when they make sense",
+  
+  "languages": [
+    "JavaScript",
+    "TypeScript",
+    "Go",
+    "Python",
+    "PHP"
+  ],
+  
+  "frontend": [
+    "React",
+    "Next.js",
+    "HTML5",
+    "CSS3",
+    "Sass",
+    "TailwindCSS",
+    "Redux",
+    "Redux Toolkit"
+  ],
+  
+  "backend": [
+    "Go",
+    "FastAPI",
+    "Node.js",
+    "Express.js",
+    "Prisma",
+    "Laravel",
+    "Django"
+  ],
+  
+  "databases": [
+    "PostgreSQL",
+    "MySQL",
+    "SQLite",
+    "Redis"
+  ],
+  
+  "tools": [
+    "Git",
+    "Docker",
+    "Vercel",
+    "Render",
+    "Postman"
+  ]
+}
+```
